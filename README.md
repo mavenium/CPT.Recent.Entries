@@ -12,5 +12,5 @@ Display a list of the most recent "Custom Post Type" entries in the wordpress wi
 ------------
 ### Screenshots
 
-![](https://raw.githubusercontent.com/mavenium/CPT.Recent.Entries/master/screenshot.png)
+![](https://raw.githubusercontent.com/mavenium/CPT.Recent.Entries/master/screenshot-1.png)
 > Widget
